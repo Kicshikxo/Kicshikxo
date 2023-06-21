@@ -1,4 +1,4 @@
-# <p align="center">[![](https://visitcount.itsvg.in/api?id=Kicshikxo&icon=0&color=12)](https://visitcount.itsvg.in)<br/>Привет, я Kicshikxo 👋</p>
+# <p align="center">[![](https://visitcount.itsvg.in/api?id=Kicshikxo&icon=0&color=12)](https://visitcount.itsvg.in)<br/>Привет, я Kicshikxo <img src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="42" height="42" /></p>
 
 ## Я программист, специализирующийся на разработке веб-приложений с использованием фреймворка Nuxt3 и серверных приложений на NestJS.<br/>Я также активно исследую и пробую другие технологии и стеки, чтобы расширить свой набор навыков и оставаться в курсе последних тенденций в сфере разработки.<br/><br/>Мой сайт-портфолио: [https://kicshikxo.ru](https://kicshikxo.ru)<br/>Как связаться со мной: <a href="https://t.me/Kicshikxo" target="_blank">Telegram</a>, <a href="mailto:supermegavalera3000@gmail.com" target="_blank">Почта</a><br/><br/>Технологии которые я использую:
 ### Языки:
@@ -40,7 +40,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
-<table width="100%">
+<table width="100%" style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td rowspan="2">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kicshikxo&show_icons=true&locale=ru&card_width=390&langs_count=8&theme=dark&hide_border=true" alt="kicshikxo" />

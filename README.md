@@ -44,7 +44,7 @@
 <table width="100%" style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td rowspan="2">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kicshikxo&show_icons=true&locale=ru&card_width=390&langs_count=8&theme=dark&hide_border=true" alt="kicshikxo" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kicshikxo&show_icons=true&locale=ru&card_width=390&langs_count=8&hide=css&theme=dark&hide_border=true" alt="kicshikxo" />
     </td>
     <td>
       <img align="right" src="https://github-readme-stats.vercel.app/api?username=kicshikxo&show_icons=true&locale=ru&theme=dark&hide_border=true" alt="kicshikxo" />

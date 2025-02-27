@@ -53,7 +53,7 @@
   </tr>
   <tr>
     <td>
-      <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kicshikxo&theme=dark&hide_border=true&lang=ru" alt="kicshikxo" />
+      <img align="right" src="https://github-readme-streak-stats-eight.vercel.app?user=kicshikxo&theme=dark&hide_border=true&lang=ru" alt="kicshikxo" />
     </td>
   </tr>
 </table>
